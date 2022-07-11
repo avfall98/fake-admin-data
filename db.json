@@ -1,0 +1,84 @@
+{
+    "users": [
+        {
+        "name": "Alexie Reynolds",
+        "birthday": "2022-01-24T11:03:02.753Z",
+        "phone": "(476) 876-7593",
+        "zip": "73794",
+        "city": "Cruickshankside",
+        "email": "Cassie.Nader92@yahoo.com"
+        },
+        {
+        "name": "Everardo Stamm",
+        "birthday": "2022-01-21T01:57:03.321Z",
+        "phone": "436-855-6120",
+        "zip": "19832",
+        "city": "East Reginaldview",
+        "email": "Lupe_Breitenberg54@hotmail.com"
+        },
+        {
+        "name": "Brandon Thompson",
+        "birthday": "2021-09-15T22:44:28.661Z",
+        "phone": "066.822.6619 x5532",
+        "zip": "69406-3928",
+        "city": "Manteview",
+        "email": "Marlon.Johns36@gmail.com"
+        },
+        {
+        "name": "Merle Blick",
+        "birthday": "2022-01-06T12:51:19.990Z",
+        "phone": "918-868-6034 x4758",
+        "zip": "53223",
+        "city": "Dickensberg",
+        "email": "Katheryn_Gutmann@hotmail.com"
+        },
+        {
+        "name": "Tyree Kerluke",
+        "birthday": "2022-05-31T00:12:07.029Z",
+        "phone": "(252) 629-8923 x529",
+        "zip": "63001",
+        "city": "New Velmaland",
+        "email": "Elvera15@yahoo.com"
+        },
+        {
+        "name": "Dr. Toby Considine",
+        "birthday": "2021-07-23T09:40:39.216Z",
+        "phone": "323.246.9204",
+        "zip": "38394",
+        "city": "West Thelmaland",
+        "email": "Duncan36@gmail.com"
+        },
+        {
+        "name": "Brycen Klein",
+        "birthday": "2022-05-12T02:23:30.238Z",
+        "phone": "1-539-528-3297",
+        "zip": "51168-1118",
+        "city": "West Guillermostad",
+        "email": "Joseph.Smith@hotmail.com"
+        },
+        {
+        "name": "Amara Feeney",
+        "birthday": "2022-07-03T13:47:18.921Z",
+        "phone": "686-088-9273",
+        "zip": "97260",
+        "city": "Port Wilber",
+        "email": "Dulce.Hills72@yahoo.com"
+        },
+        {
+        "name": "Rosalia King IV",
+        "birthday": "2021-11-23T20:54:54.326Z",
+        "phone": "(400) 522-0096",
+        "zip": "39326",
+        "city": "North Cecil",
+        "email": "Chase_Farrell87@yahoo.com"
+        },
+        {
+        "name": "Phoebe Feil",
+        "birthday": "2022-03-30T16:47:45.336Z",
+        "phone": "541-213-1540 x7987",
+        "zip": "10667-1289",
+        "city": "East Demetriusport",
+        "email": "Rafaela.Moen31@hotmail.com"
+        }
+    ]
+}
