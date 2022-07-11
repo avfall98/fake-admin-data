@@ -5,13 +5,14 @@ module.exports = function() {
     var _ = require('lodash');
     faker.seed(808);
     return {
-        people: _.times(10, function(n) {
+        customers: _.times(100, function(n) {
             return {
                 id: n,
-                username: faker.internet.userName(),
-                email: faker.internet.email(),
-                avatar: faker.image.avatar(),
-                registeredAt: faker.date.past()
+                uuid: faker.datatype.uuid(),
+                name: faker.company.companyName(),
+                salesforceId: faker.database.mongodbObjectId(),
+                dateCreated: faker.date.past(),
+                dateUpdated: faker.date.recent(100)
             }
         })
     }
